@@ -82,8 +82,5 @@
     <Text Include="output.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
-    <Text Include="readme.txt">
-      <Filter>Файлы ресурсов</Filter>
-    </Text>
   </ItemGroup>
 </Project>
